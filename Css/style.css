@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+#logo {
+    background-color: #FFE879;
+}
+
+nav {
+    background-color: #FFBA79;
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+}
+
+ul, li {
+    display: inline-block;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+
+#container {
+    width: 80%;
+    margin-left: 10%;
+    height: 1000px;
+    background-color: #FFE879;
+}
